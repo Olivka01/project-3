@@ -1,4 +1,4 @@
-# PROJECT-3. PROJECT-3. EDA + Feature Engineering.
+# PROJECT-3. EDA + Feature Engineering.
 
 ## Описание проекта
 В этом репозитории представлен вариант решения Data Science-проекта. 
